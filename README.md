@@ -4,7 +4,7 @@ Algorytm genetyczny pojawił się na moich zajęciach laboratoryjnych na przedmi
 
 # Szukanie optymalnej funkcji
 
-f(x)=exp⁡(-((sin(x)+2)^2-3*(sin(x)+2))-cos(2*3.14*x/2048))
+f(x)=exp⁡(-((sin(x)+2)^2-3*(sin(x)+2))-cos(2*PI*x/2048))
 
 # Krok postępowania
 
